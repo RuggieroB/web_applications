@@ -1,0 +1,19 @@
+{
+  "name": "js",
+  "version": "1.1.1",
+  "description": "web_applications - TPSIT A.S.: 2019/2020 5^Finf.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "EnricoRugiero Bucchiaico"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "path": "^0.12.7"
+  }
+}
